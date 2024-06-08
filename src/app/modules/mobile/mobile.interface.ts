@@ -1,4 +1,3 @@
-import { Schema, model, connect } from 'mongoose';
 
 export interface Tvariant{
     type: string;
